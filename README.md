@@ -54,7 +54,7 @@ The Power BI report is available in the `Power BI` folder.
 
 ### Dashboard Preview
 
-![BookMyShow Dashboard](Images/BookMyShow%20Dashboard%20Background.png)
+![BookMyShow Dashboard](Images/BookMyShow%20Dashboard%20Home%20Page.png)
 
 ## Project Structure
 
