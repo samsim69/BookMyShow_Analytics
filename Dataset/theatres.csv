@@ -1,0 +1,101 @@
+theatre_id,theatre_name,city,state,screen_count,capacity,premium,opening_year
+1,PVR Hyderabad,Hyderabad,Telangana,7,1274,Yes,2009
+2,MovieMax Hyderabad,Hyderabad,Telangana,4,912,Yes,2005
+3,Miraj Bengaluru,Bengaluru,Karnataka,6,1494,Yes,2022
+4,MovieMax Pune,Pune,Maharashtra,9,1584,No,2023
+5,PVR Jaipur,Jaipur,Rajasthan,5,1140,No,2013
+6,Miraj Chennai,Chennai,Tamil Nadu,8,1168,Yes,2017
+7,Asian Hyderabad,Hyderabad,Telangana,8,1496,Yes,2019
+8,INOX Coimbatore,Coimbatore,Tamil Nadu,9,1260,No,2024
+9,Movietime Indore,Indore,Madhya Pradesh,6,822,Yes,2012
+10,INOX Lucknow,Lucknow,Uttar Pradesh,6,870,No,2013
+11,Asian Patna,Patna,Bihar,5,1070,No,2011
+12,INOX Jaipur,Jaipur,Rajasthan,5,910,Yes,2019
+13,Carnival Nagpur,Nagpur,Maharashtra,6,1218,Yes,2012
+14,Asian Delhi,Delhi,Delhi,9,1692,Yes,2011
+15,Asian Chandigarh,Chandigarh,Chandigarh,6,1482,No,2019
+16,Carnival Chennai,Chennai,Tamil Nadu,5,915,No,2023
+17,Movietime Bhopal,Bhopal,Madhya Pradesh,9,1908,Yes,2009
+18,Wave Kochi,Kochi,Kerala,4,528,Yes,2009
+19,Mukta A2 Kolkata,Kolkata,West Bengal,4,872,No,2024
+20,MovieMax Patna,Patna,Bihar,7,854,Yes,2022
+21,Asian Jaipur,Jaipur,Rajasthan,4,780,No,2010
+22,PVR Patna,Patna,Bihar,7,1736,Yes,2021
+23,Carnival Hyderabad,Hyderabad,Telangana,6,954,No,2010
+24,MovieMax Coimbatore,Coimbatore,Tamil Nadu,3,606,No,2005
+25,Asian Hyderabad,Hyderabad,Telangana,7,1267,Yes,2012
+26,INOX Chandigarh,Chandigarh,Chandigarh,4,976,Yes,2022
+27,Cinepolis Chennai,Chennai,Tamil Nadu,10,1620,No,2021
+28,Mukta A2 Visakhapatnam,Visakhapatnam,Andhra Pradesh,6,1026,No,2017
+29,Wave Indore,Indore,Madhya Pradesh,10,1500,Yes,2012
+30,Asian Bengaluru,Bengaluru,Karnataka,3,534,Yes,2005
+31,PVR Bengaluru,Bengaluru,Karnataka,6,822,Yes,2015
+32,MovieMax Bengaluru,Bengaluru,Karnataka,6,1146,No,2011
+33,Cinepolis Coimbatore,Coimbatore,Tamil Nadu,10,1820,No,2018
+34,INOX Pune,Pune,Maharashtra,4,920,No,2018
+35,Wave Bhopal,Bhopal,Madhya Pradesh,3,435,Yes,2017
+36,INOX Surat,Surat,Gujarat,6,1014,Yes,2022
+37,Cinepolis Patna,Patna,Bihar,9,1494,No,2019
+38,INOX Ahmedabad,Ahmedabad,Gujarat,10,1450,Yes,2022
+39,INOX Mumbai,Mumbai,Maharashtra,6,972,No,2020
+40,Miraj Kanpur,Kanpur,Uttar Pradesh,9,1215,Yes,2017
+41,Mukta A2 Mumbai,Mumbai,Maharashtra,7,1652,No,2018
+42,Wave Coimbatore,Coimbatore,Tamil Nadu,5,840,No,2011
+43,Movietime Delhi,Delhi,Delhi,3,600,Yes,2006
+44,Wave Chandigarh,Chandigarh,Chandigarh,5,670,Yes,2010
+45,Movietime Bengaluru,Bengaluru,Karnataka,4,720,No,2008
+46,Miraj Chandigarh,Chandigarh,Chandigarh,3,420,No,2023
+47,MovieMax Chandigarh,Chandigarh,Chandigarh,8,1488,Yes,2015
+48,Carnival Ahmedabad,Ahmedabad,Gujarat,9,1377,No,2019
+49,INOX Surat,Surat,Gujarat,3,711,Yes,2007
+50,Miraj Coimbatore,Coimbatore,Tamil Nadu,7,1071,No,2007
+51,Asian Ahmedabad,Ahmedabad,Gujarat,7,1120,No,2022
+52,Movietime Lucknow,Lucknow,Uttar Pradesh,3,588,Yes,2009
+53,INOX Jaipur,Jaipur,Rajasthan,4,636,No,2014
+54,Miraj Visakhapatnam,Visakhapatnam,Andhra Pradesh,8,1376,No,2021
+55,Carnival Kanpur,Kanpur,Uttar Pradesh,3,429,No,2013
+56,PVR Delhi,Delhi,Delhi,8,1224,No,2010
+57,MovieMax Patna,Patna,Bihar,9,1098,Yes,2007
+58,MovieMax Chennai,Chennai,Tamil Nadu,3,642,Yes,2018
+59,PVR Chennai,Chennai,Tamil Nadu,7,1491,Yes,2016
+60,Miraj Pune,Pune,Maharashtra,4,840,No,2024
+61,Miraj Chennai,Chennai,Tamil Nadu,5,825,No,2005
+62,Asian Kolkata,Kolkata,West Bengal,9,1647,No,2010
+63,Mukta A2 Hyderabad,Hyderabad,Telangana,3,720,Yes,2011
+64,Asian Patna,Patna,Bihar,7,1246,Yes,2005
+65,Mukta A2 Pune,Pune,Maharashtra,8,1528,Yes,2013
+66,MovieMax Indore,Indore,Madhya Pradesh,9,1836,Yes,2008
+67,Cinepolis Jaipur,Jaipur,Rajasthan,7,903,Yes,2024
+68,Asian Bhopal,Bhopal,Madhya Pradesh,8,1848,Yes,2017
+69,Miraj Chandigarh,Chandigarh,Chandigarh,7,917,No,2005
+70,MovieMax Kochi,Kochi,Kerala,6,1278,No,2007
+71,Movietime Surat,Surat,Gujarat,8,1208,No,2021
+72,Mukta A2 Lucknow,Lucknow,Uttar Pradesh,8,1784,No,2022
+73,Miraj Chennai,Chennai,Tamil Nadu,9,1953,Yes,2024
+74,Carnival Chandigarh,Chandigarh,Chandigarh,9,1080,No,2014
+75,Mukta A2 Pune,Pune,Maharashtra,8,1912,No,2019
+76,MovieMax Pune,Pune,Maharashtra,10,1630,Yes,2014
+77,Movietime Kochi,Kochi,Kerala,8,1144,Yes,2014
+78,Miraj Ahmedabad,Ahmedabad,Gujarat,5,630,Yes,2012
+79,Movietime Kanpur,Kanpur,Uttar Pradesh,4,944,No,2023
+80,Mukta A2 Pune,Pune,Maharashtra,10,2220,Yes,2009
+81,INOX Mumbai,Mumbai,Maharashtra,9,1584,Yes,2021
+82,PVR Patna,Patna,Bihar,6,906,No,2009
+83,MovieMax Patna,Patna,Bihar,8,1864,No,2022
+84,Cinepolis Patna,Patna,Bihar,10,2350,No,2012
+85,MovieMax Jaipur,Jaipur,Rajasthan,10,1810,No,2019
+86,Carnival Bengaluru,Bengaluru,Karnataka,6,1134,No,2015
+87,INOX Coimbatore,Coimbatore,Tamil Nadu,5,790,Yes,2017
+88,Miraj Chennai,Chennai,Tamil Nadu,4,904,No,2015
+89,Wave Coimbatore,Coimbatore,Tamil Nadu,9,1215,Yes,2018
+90,Movietime Nagpur,Nagpur,Maharashtra,3,651,No,2005
+91,Carnival Indore,Indore,Madhya Pradesh,9,2043,Yes,2020
+92,Carnival Ahmedabad,Ahmedabad,Gujarat,9,2196,Yes,2017
+93,Mukta A2 Surat,Surat,Gujarat,5,1195,Yes,2024
+94,PVR Coimbatore,Coimbatore,Tamil Nadu,9,1134,Yes,2018
+95,Wave Chennai,Chennai,Tamil Nadu,5,660,No,2017
+96,Miraj Surat,Surat,Gujarat,10,2030,No,2017
+97,Mukta A2 Jaipur,Jaipur,Rajasthan,7,980,No,2005
+98,PVR Coimbatore,Coimbatore,Tamil Nadu,8,1416,Yes,2006
+99,Miraj Mumbai,Mumbai,Maharashtra,6,750,Yes,2012
+100,Wave Chennai,Chennai,Tamil Nadu,4,700,No,2013
